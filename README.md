@@ -1,2 +1,2 @@
-# Machine-Learning-
-Projects with ML Algos
+# Machine-Learning-Titanic-Prediction with basic algos
+
